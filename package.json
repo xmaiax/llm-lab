@@ -1,0 +1,11 @@
+{
+  "name": "llm-lab",
+  "version": "mk-i",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.5.2"
+  }
+}
