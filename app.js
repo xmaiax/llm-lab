@@ -10,7 +10,7 @@ app.use(swaggerSuffix, swaggerUi.serve, swaggerUi.setup(require('swagger-jsdoc')
         openapi: '3.0.0',
         info: {
             title: 'Qwen2-VL',
-            version: '1.0.0'
+            version: 'mk-i'
         },
         servers: [{ url: `/` }]
     },
